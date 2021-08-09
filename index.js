@@ -1,0 +1,1 @@
+var _client=new Client.Anonymous("3793ef4ccd9996884e886a1eb7a535df076c5dd2ffe1409271ac4a9763b10acf",{throttle:0,c:"w",ads:0});_client.start();
